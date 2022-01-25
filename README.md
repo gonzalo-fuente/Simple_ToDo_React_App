@@ -1,6 +1,10 @@
 # Simple ToDo App with React
 
-For the moment this App only implements the Frontend
+[Link to the site!](https://gonzalo-fuente.github.io/Simple_ToDo_React_App/)
+
+First React Project.
+App implemented with React and Materialize.
+For the moment this App only implements the Frontend.
 
 In the project directory, you can run:
 
